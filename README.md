@@ -1,2 +1,2 @@
 # new-object-design
-module 4, lesson 2
+module 4 manage styles, lesson 2 new object design
